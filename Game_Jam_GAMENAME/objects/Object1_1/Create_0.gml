@@ -1,4 +1,4 @@
-playerSpeed = 8;
+playerSpeed = 2;
 
 xMovement = 0;
 yMovement = 0;
