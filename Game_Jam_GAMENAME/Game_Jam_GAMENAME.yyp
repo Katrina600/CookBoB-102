@@ -29,22 +29,6 @@
   },
   "name":"Game_Jam_GAMENAME",
   "resources":[
-<<<<<<< HEAD
-    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
-    {"id":{"name":"Object1_1","path":"objects/Object1_1/Object1_1.yy",},},
-    {"id":{"name":"Object1_2","path":"objects/Object1_2/Object1_2.yy",},},
-    {"id":{"name":"Object1_3","path":"objects/Object1_3/Object1_3.yy",},},
-=======
-    {"id":{"name":"obj_manager","path":"objects/obj_manager/obj_manager.yy",},},
-    {"id":{"name":"Object1_1","path":"objects/Object1_1/Object1_1.yy",},},
-    {"id":{"name":"Object1_2","path":"objects/Object1_2/Object1_2.yy",},},
-    {"id":{"name":"Object1_3","path":"objects/Object1_3/Object1_3.yy",},},
-<<<<<<< HEAD
-=======
-    {"id":{"name":"Object1_4","path":"objects/Object1_4/Object1_4.yy",},},
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
->>>>>>> bfc0c54b4b4b58f173407dae03c0f6d24ff96a1b
->>>>>>> f6bc7bb8439537491e22c951f9f4ee1df7cac503
     {"id":{"name":"Room1_1","path":"rooms/Room1_1/Room1_1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sprite_recipe_piece","path":"sprites/sprite_recipe_piece/sprite_recipe_piece.yy",},},
