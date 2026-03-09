@@ -1,4 +1,4 @@
-if (obj_burger = 4) {
+if (Object1_2 = 4) {
 	video_open("spongebob_patrick.mp4");
 	var _video_data = video_draw();
 	var _status = _video_data[0];
@@ -13,7 +13,7 @@ if (obj_burger = 4) {
 	}
 }
 
-if (obj_burger = 3) {
+if (Object1_2 = 3) {
 	video_open("spongebob_mr.krabs.mp4");
 	var _video_data = video_draw();
 	var _status = _video_data[0];
@@ -28,7 +28,7 @@ if (obj_burger = 3) {
 	}
 }
 
-if (obj_burger = 2) {
+if (Object1_2 = 2) {
 	video_open("spongebob_squidward.mp4");
 	var _video_data = video_draw();
 	var _status = _video_data[0];
@@ -43,7 +43,7 @@ if (obj_burger = 2) {
 	}
 }
 
-if (obj_burger = 1) {
+if (Object1_2 = 1) {
 	video_open("spongebob_mrs.puff.mp4");
 	var _video_data = video_draw();
 	var _status = _video_data[0];
@@ -58,7 +58,7 @@ if (obj_burger = 1) {
 	}
 }
 
-if (obj_burger = 0) {
+if (Object1_2 = 0) {
 	video_open("spongebob_all.mp4");
 	var _video_data = video_draw();
 	var _status = _video_data[0];

@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"Object1_1",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"Object1_1",
   "overriddenProperties":[],
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Sprite5",
+    "path":"sprites/Sprite5/Sprite5.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
