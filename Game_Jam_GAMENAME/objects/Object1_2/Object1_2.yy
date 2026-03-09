@@ -1,7 +1,10 @@
 {
   "$GMObject":"",
   "%Name":"Object1_2",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Object1_1","path":"objects/Object1_1/Object1_1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"Object1_2",
   "overriddenProperties":[],
@@ -28,8 +31,13 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
+<<<<<<< HEAD
     "name":"Sprite1_5",
     "path":"sprites/Sprite1_5/Sprite1_5.yy",
+=======
+    "name":"Sprite6",
+    "path":"sprites/Sprite6/Sprite6.yy",
+>>>>>>> f6bc7bb8439537491e22c951f9f4ee1df7cac503
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,9 +1,18 @@
 {
   "$GMObject":"",
+<<<<<<<< HEAD:Game_Jam_GAMENAME/objects/obj_wall/obj_wall.yy
   "%Name":"obj_wall",
   "eventList":[],
   "managed":true,
   "name":"obj_wall",
+========
+  "%Name":"obj_manager",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
+  "managed":true,
+  "name":"obj_manager",
+>>>>>>>> f6bc7bb8439537491e22c951f9f4ee1df7cac503:Game_Jam_GAMENAME/objects/obj_manager/obj_manager.yy
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",

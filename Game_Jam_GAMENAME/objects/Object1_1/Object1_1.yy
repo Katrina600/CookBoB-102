@@ -2,7 +2,10 @@
   "$GMObject":"",
   "%Name":"Object1_1",
   "eventList":[
+<<<<<<< HEAD
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+=======
+>>>>>>> f6bc7bb8439537491e22c951f9f4ee1df7cac503
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
