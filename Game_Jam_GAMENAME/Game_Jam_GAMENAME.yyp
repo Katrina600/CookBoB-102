@@ -33,6 +33,11 @@
     {"id":{"name":"Object1_1","path":"objects/Object1_1/Object1_1.yy",},},
     {"id":{"name":"Object1_2","path":"objects/Object1_2/Object1_2.yy",},},
     {"id":{"name":"Object1_3","path":"objects/Object1_3/Object1_3.yy",},},
+<<<<<<< HEAD
+=======
+    {"id":{"name":"Object1_4","path":"objects/Object1_4/Object1_4.yy",},},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+>>>>>>> bfc0c54b4b4b58f173407dae03c0f6d24ff96a1b
     {"id":{"name":"Room1_1","path":"rooms/Room1_1/Room1_1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Sprite1_4","path":"sprites/Sprite1_4/Sprite1_4.yy",},},
